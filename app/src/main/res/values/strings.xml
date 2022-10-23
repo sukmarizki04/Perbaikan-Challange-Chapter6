@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Challenge Chapter 6 (EN)</string>
+    <string name="prompt_username">Input Username</string>
+    <string name="prompt_email">Input Email</string>
+    <string name="prompt_password">Input Password</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="register" translatable="false">Register</string>
+    <string name="dont_have_account">Don\'t have account?</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="lorem_ipsum" translatable="false">Lorem ipsum dolor sit amet odio dicunt repudiandae repudiandae eos mauris corrumpit impedit donec iusto dicta vitae usu te per vitae mauris dicunt</string>
+    <string name="label_description">Description</string>
+    <string name="welcome_home">Welcome, Username</string>
+    <string name="profile">Profile</string>
+    <string name="prompt_full_name">Input Full Name</string>
+    <string name="update">Update</string>
+    <string name="logout">Log Out</string>
+    <string name="prompt_address">Input Address</string>
+    <string name="change_image">Change Image</string>
+</resources>
